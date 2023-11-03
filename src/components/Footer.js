@@ -19,7 +19,7 @@ export const Footer = () => {
             <a href="https://www.linkedin.com/in/najia-jahan-40ba11175/" target="_blank"> <img src={navIcon1} alt="" /> </a>
                             <a href="https://github.com/najia096" target="_blank"> <img src={navIcon2} alt="" /> </a>
                             <a href="https://leetcode.com/naziausha/" target="_blank"> <img src={navIcon4} alt="" /> </a>
-                            <a href="https://www.facebook.com/raisa.riyasat" target="_blank"> <img src={navIcon3} alt="" /> </a>
+                            
             </div>
             <p>© 2023 Najia Jahan</p>
           </Col>

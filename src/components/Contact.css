@@ -69,7 +69,19 @@
   .contact form button:hover::before {
     width: 100%;
   }
-
+  .alternative-contact {
+    margin-top: 20px;
+    font-size: 16px;
+  }
+  
+  .alternative-contact a {
+    color: #007bff; /* Change this color to your preferred link color */
+    text-decoration: none;
+  }
+  
+  .alternative-contact a:hover {
+    text-decoration: underline;
+  }
   
 /* Media query for smaller screens (e.g., mobile devices) */
 @media (max-width: 768px) {

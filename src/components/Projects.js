@@ -95,6 +95,7 @@ export const Projects = () => {
                   <Tab.Content id="slideInUp" className={isVisible ? "animate__animated animate__slideInUp" : ""}>
                     <Tab.Pane eventKey="first">
                       <Row>
+                        <p>Plantex simplifies plant discovery with image and text search options. Upload a photo or type in a plant's name for quick access to a rich database of plant species and information.</p>
                         {
                           projects.map((project, index) => {
                             return (

@@ -93,7 +93,10 @@ export const Contact = () => {
                   {status.message && (
                     <p className={status.success === false ? "danger" : "success"}>{status.message}</p>
                   )}
-                </div>
+                  {/* Alternative contact option */}
+                  <p className="alternative-contact">
+                    <span>Don't like forms?  <a href="mailto:nzusha@gmail.com">Email</a> me directly.</span>
+                  </p></div>
               }
             </TrackVisibility>
           </Col>
