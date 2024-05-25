@@ -34,8 +34,9 @@ export const Experience = () => {
                         <p><strong>Duration:</strong> Jun 2023 – Aug 2023</p>
                         <p><strong>Location:</strong> Manhattan, NY</p>
                         <ul className="experience-list">
-                          <li>Conducted comprehensive web analysis of the bank's marketing site pages and documented the API suite of the core banking provider (FIS), ensuring clear and accessible integration guidelines.</li>
-                          <li>Collaborated on a pivotal group project aimed at introducing a banking product specifically designed for Gen Z customers and presented the concept to the bank's CEO and senior executives, highlighting effective contribution and adept communication with top leadership.</li>
+                          <li>Conducted a thorough web analysis of the banking application while collaborating with the Enterprise App Support team to ensure a smooth release of the new version for the app.</li>
+                          <li>Created documents outlining the integration of the bank’s API suite (FIS) by communicating with third-party vendors (FIS) and internal employees of the Bank, resulting in clear guidelines of the digital app’s processes.</li>
+                          <li>Contributed in a group project to propose a new banking product for Gen Z and presented it to the leadership. </li>
                           <li>Executed the design of a logo for the IT department, contributing to the department's visual identity.</li>
                         </ul>
                       </div>
@@ -46,8 +47,10 @@ export const Experience = () => {
                         <p><strong>Duration:</strong> July 2022 – August 2022</p>
                         <p><strong>Location:</strong> 4 WTC, NY</p>
                         <ul className="experience-list">
-                          <li>Performed network, software, and hardware troubleshooting in the Financial Office Help Desk. Actively assisted in implementing new ideas in recreating FO Help Desk’s manual.</li>
-                          <li>Assisted with database development using SQL, created Web Forms using HTML, CSS.</li>
+                          <li>Transformed word docx into web forms using HTML and CSS, enhancing the efficiency of business between the Financial Office and clients/third-party vendors.</li>
+                          <li>Assisted with database development of the FO Help Desk Ticketing Systems Tool using SQL. </li>
+                          <li>•	Worked with the Service Now team to perform network, software, and hardware troubleshooting tasks at the Financial Office Help Desk, ensuring smooth operations within four office floors.</li>
+                          
                         </ul>
                       </div>
                     </Tab.Pane>
@@ -58,8 +61,8 @@ export const Experience = () => {
                         <p><strong>Duration:</strong> August 2022 – Present</p>
                         <p><strong>Location:</strong> 160 Convent Ave, NY</p>
                         <ul className="experience-list">
-                          <li>Working in the Multimedia Center and Learning & Technology Resource Center to assist students and faculty with IT support.</li>
-                          <li>Perform website editing for the CCNY School of Education webpages.</li>
+                          <li>Working in the Multimedia Center to maintain Windows, MacOS system by installing/updating multiple software while offering technical support with diverse hardware to faculty and students.</li>
+                          <li>Manage website editing tasks for the School of Education, maintaining regular communication with the 17 departments within the SoE, and storing backups of website content.</li>
                         </ul>
                       </div>
                       <hr className="experience-divider" />
